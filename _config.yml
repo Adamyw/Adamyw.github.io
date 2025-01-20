@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Yuwen Wang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "LBiomedical Engineering PhD Candidate at The Chinese University of Hong Kong - MRes Nanomaterials Graduate from ICL & BSc Chemistry Graduate from SDU"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,10 +20,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yuwen Wang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Hongkong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
